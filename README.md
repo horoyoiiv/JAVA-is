@@ -3,12 +3,16 @@ about java
 
 
 
-### Inheritance  
+## Inheritance  
+  about **extends**  
+  
+## Polymorphism  
+  about **overloading**, **overriding**  
 
-### Polymorphism  
-
-### Abstraction  
-
-### Encapsulation  
-
+## Abstraction  
+  about **abstract**, **interface**  
+  
+## Encapsulation  
+  about **modifiers**  
+  
 
