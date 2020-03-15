@@ -32,5 +32,31 @@ for(Human h : humanList){
   * static method can not be overrided.  
   
   
+## Static method overriding.  
+  * It doesn't work because statics are resolved at compile time.  
+  
+```java
+class Parent{
+
+  static void hello(){
+    System.out.println("Hello Parent");
+  }
+}
+
+class Child extends Parent{
+
+  static void hello(){
+    System.out.println("Hello Parent");
+  }
+}
+```
+
+```java
+Parent p = new Child();
+p.hello();     // Hello Parent'
+```
+
+  
+  
  
  
