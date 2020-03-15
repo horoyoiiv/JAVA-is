@@ -43,3 +43,7 @@
         }
  
 ```
+
+#### 10. Can static method be overridden in JAVA?  
+
+
