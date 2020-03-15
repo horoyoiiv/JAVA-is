@@ -5,3 +5,9 @@
   * open**jdk**/bin 아래에 java development kit, 즉 자바 개발 시 사용되는 tools가 저장되어 있다.  
   * java, javac, javadoc 등등.  
   
+
+
+ * JVM은 처음보는 메서드를 만났을 때, 그 메서드를 가진 클래스 바이트코드를 로딩하기 위하여,  
+ 1) JVM은 JRE 라이브러리 폴더에서 클래서를 찾는다.  
+ 2) CLASSPATH 환경변수에 지정된 폴더에서 클래스를 찾는다.  
+ 
