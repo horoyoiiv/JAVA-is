@@ -25,3 +25,21 @@ about java
 
 ### Maker Interface  
 1) Serializable  [link](/Marker-interface/serializable.md)  
+
+
+
+## IO  
+#### java.io is a Decorater itself.  
+
+1) File / FileInput(Output)Stream / FileReader Writer  
+[go](/io/hello.md)  
+
+2) DataInputStream / DataOutputStream  
+   ObjectInputStream / ObjectOutputStream  
+[go](/io/datastream.md)  
+
+3) BufferedOutputStrema / BufferedInputStream  
+   BufferedReader / BufferedWriter  
+
+[go](/io/buffered.md)  
+
